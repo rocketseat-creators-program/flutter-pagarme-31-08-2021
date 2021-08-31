@@ -1,16 +1,23 @@
-# apipagarme
+<img  src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg"  />
 
-A new Flutter project.
+# Utilizando a API do Pagar.me no Flutter
+Você já pensou em como colocar pagamentos no seu aplicativo? E elevar para o 
+próximo nível sua aplicação?
+Na aula de hoje iremos aprender como é fácil colocar o Pagar.me no seu projeto!
 
-## Getting Started
+Então bora lá começar!
 
-This project is a starting point for a Flutter application.
+  
 
-A few resources to get you started if this is your first Flutter project:
+### Informações
+Acesse o notion para lhe direcionar na aula junto comigo
+[Notion](https://scratched-collarbone-d7d.notion.site/2-Utilizando-a-API-do-Pagar-me-no-Flutter-ec3ccf08d9be40ad901cdfc05c10b132)
+  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Expert
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+
+| [<img src="https://avatars.githubusercontent.com/u/32063378?s=460&u=6720dd978cc0757ee58a3fefb1f0f073896deb32&v=4" width="75px;"/>](https://github.com/diego3g) |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Gabul DEV](https://github.com/gabuldev) |
